@@ -1,0 +1,10 @@
+argon2-cffi==21.3.0
+djangorestframework-jwt
+djangorestframework-simplejwt
+djangorestframework
+markdown
+django-filter
+django-rest-auth
+django-allauth
+django-extensions
+django-model-utils
