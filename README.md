@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 [![Slack](badge/Django.svg)](https://github.com/django/django/tree/stable/3.2.x)
 
-[![python](badge\Python.svg)](https://www.python.org/downloads/release/python-390/)
+[![python](badge/Python.svg)](https://www.python.org/downloads/release/python-390/)
 
 [![django-rest-auth](badge/rest_auth.svg)](https://django-rest-auth.readthedocs.io/en/latest/index.html)
 
