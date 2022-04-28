@@ -11,7 +11,7 @@ from secrets_get import secret_get
 # 디버깅
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['http://smsregister01-env.eba-xi4kbpzp.us-east-1.elasticbeanstalk.com']
 
 # secrets.json 내역
 # 외부로 노출되면 안되는 값들은 따로 관리하여 불러오기
